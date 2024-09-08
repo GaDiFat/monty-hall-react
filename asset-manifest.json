@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monty-hall-react/static/css/main.3a790baa.css",
+    "main.js": "/monty-hall-react/static/js/main.d912b854.js",
+    "static/media/carro.png": "/monty-hall-react/static/media/carro.ad518fa01fc39609badf.png",
+    "static/media/puerta.png": "/monty-hall-react/static/media/puerta.0da18377d170a235b75f.png",
+    "static/media/burro.png": "/monty-hall-react/static/media/burro.d9c79313c8a998156421.png",
+    "index.html": "/monty-hall-react/index.html",
+    "main.3a790baa.css.map": "/monty-hall-react/static/css/main.3a790baa.css.map",
+    "main.d912b854.js.map": "/monty-hall-react/static/js/main.d912b854.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a790baa.css",
+    "static/js/main.d912b854.js"
+  ]
+}
